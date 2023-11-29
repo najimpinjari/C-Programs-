@@ -1,0 +1,7 @@
+E:\C# project\1\find highest number\bin\Debug\find highest number.exe.config
+E:\C# project\1\find highest number\bin\Debug\find highest number.exe
+E:\C# project\1\find highest number\bin\Debug\find highest number.pdb
+E:\C# project\1\find highest number\obj\Debug\find highest number.csproj.AssemblyReference.cache
+E:\C# project\1\find highest number\obj\Debug\find highest number.csproj.CoreCompileInputs.cache
+E:\C# project\1\find highest number\obj\Debug\find highest number.exe
+E:\C# project\1\find highest number\obj\Debug\find highest number.pdb
