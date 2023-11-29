@@ -1,0 +1,7 @@
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\bin\Debug\Write_a_program_to_reverse_a_string._without_using_reverse_method_.exe.config
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\bin\Debug\Write_a_program_to_reverse_a_string._without_using_reverse_method_.exe
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\bin\Debug\Write_a_program_to_reverse_a_string._without_using_reverse_method_.pdb
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\obj\Debug\Write a program to reverse a string. (without using reverse method).csproj.AssemblyReference.cache
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\obj\Debug\Write a program to reverse a string. (without using reverse method).csproj.CoreCompileInputs.cache
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\obj\Debug\Write_a_program_to_reverse_a_string._without_using_reverse_method_.exe
+E:\C# project\1\Write a program to reverse a string. (without using reverse method)\obj\Debug\Write_a_program_to_reverse_a_string._without_using_reverse_method_.pdb
