@@ -1,0 +1,7 @@
+E:\C# project\1\loop program\bin\Debug\loop program.exe.config
+E:\C# project\1\loop program\bin\Debug\loop program.exe
+E:\C# project\1\loop program\bin\Debug\loop program.pdb
+E:\C# project\1\loop program\obj\Debug\loop program.csproj.AssemblyReference.cache
+E:\C# project\1\loop program\obj\Debug\loop program.csproj.CoreCompileInputs.cache
+E:\C# project\1\loop program\obj\Debug\loop program.exe
+E:\C# project\1\loop program\obj\Debug\loop program.pdb
