@@ -1,0 +1,10 @@
+E:\C# project\1\MathLabraryClient\bin\Debug\MathLabraryClient.exe.config
+E:\C# project\1\MathLabraryClient\bin\Debug\MathLabraryClient.exe
+E:\C# project\1\MathLabraryClient\bin\Debug\MathLabraryClient.pdb
+E:\C# project\1\MathLabraryClient\obj\Debug\MathLabraryClient.csproj.AssemblyReference.cache
+E:\C# project\1\MathLabraryClient\obj\Debug\MathLabraryClient.csproj.CoreCompileInputs.cache
+E:\C# project\1\MathLabraryClient\obj\Debug\MathLabraryClient.exe
+E:\C# project\1\MathLabraryClient\obj\Debug\MathLabraryClient.pdb
+E:\C# project\1\MathLabraryClient\bin\Debug\Math library.dll
+E:\C# project\1\MathLabraryClient\bin\Debug\Math library.pdb
+E:\C# project\1\MathLabraryClient\obj\Debug\MathLabraryClient.csproj.CopyComplete
