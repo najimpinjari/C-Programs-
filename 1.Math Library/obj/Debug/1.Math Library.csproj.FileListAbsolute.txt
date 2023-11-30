@@ -1,0 +1,6 @@
+E:\C# project\1\1.Math Library\bin\Debug\1.Math Library.dll
+E:\C# project\1\1.Math Library\bin\Debug\1.Math Library.pdb
+E:\C# project\1\1.Math Library\obj\Debug\1.Math Library.csproj.AssemblyReference.cache
+E:\C# project\1\1.Math Library\obj\Debug\1.Math Library.csproj.CoreCompileInputs.cache
+E:\C# project\1\1.Math Library\obj\Debug\1.Math Library.dll
+E:\C# project\1\1.Math Library\obj\Debug\1.Math Library.pdb
