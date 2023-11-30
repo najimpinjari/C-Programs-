@@ -1,0 +1,10 @@
+E:\C# project\1\MathlibraryClient\bin\Debug\MathlibraryClient.exe.config
+E:\C# project\1\MathlibraryClient\bin\Debug\MathlibraryClient.exe
+E:\C# project\1\MathlibraryClient\bin\Debug\MathlibraryClient.pdb
+E:\C# project\1\MathlibraryClient\bin\Debug\1.Math Library.dll
+E:\C# project\1\MathlibraryClient\bin\Debug\1.Math Library.pdb
+E:\C# project\1\MathlibraryClient\obj\Debug\MathlibraryClient.csproj.AssemblyReference.cache
+E:\C# project\1\MathlibraryClient\obj\Debug\MathlibraryClient.csproj.CoreCompileInputs.cache
+E:\C# project\1\MathlibraryClient\obj\Debug\MathlibraryClient.csproj.CopyComplete
+E:\C# project\1\MathlibraryClient\obj\Debug\MathlibraryClient.exe
+E:\C# project\1\MathlibraryClient\obj\Debug\MathlibraryClient.pdb
