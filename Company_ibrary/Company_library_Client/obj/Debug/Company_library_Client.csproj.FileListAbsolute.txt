@@ -1,0 +1,10 @@
+E:\C# project\1\Company_library_Client\bin\Debug\Company_library_Client.exe.config
+E:\C# project\1\Company_library_Client\bin\Debug\Company_library_Client.exe
+E:\C# project\1\Company_library_Client\bin\Debug\Company_library_Client.pdb
+E:\C# project\1\Company_library_Client\bin\Debug\Company_ibrary.dll
+E:\C# project\1\Company_library_Client\bin\Debug\Company_ibrary.pdb
+E:\C# project\1\Company_library_Client\obj\Debug\Company_library_Client.csproj.AssemblyReference.cache
+E:\C# project\1\Company_library_Client\obj\Debug\Company_library_Client.csproj.CoreCompileInputs.cache
+E:\C# project\1\Company_library_Client\obj\Debug\Company_library_Client.csproj.CopyComplete
+E:\C# project\1\Company_library_Client\obj\Debug\Company_library_Client.exe
+E:\C# project\1\Company_library_Client\obj\Debug\Company_library_Client.pdb
