@@ -1,0 +1,8 @@
+E:\C# project\1\Exception_one\obj\Debug\Exception_one.csproj.AssemblyReference.cache
+E:\C# project\1\Exception_one\obj\Debug\Exception_one.csproj.CoreCompileInputs.cache
+E:\C# project\1\Exception_one\bin\Debug\Exception_one.exe.config
+E:\C# project\1\Exception_one\bin\Debug\Exception_one.exe
+E:\C# project\1\Exception_one\bin\Debug\Exception_one.pdb
+E:\C# project\1\Exception_one\obj\Debug\Exception_one.exe
+E:\C# project\1\Exception_one\obj\Debug\Exception_one.pdb
+E:\C# project\1\Exception_one\bin\Debug\Error\Error_handling.txt
