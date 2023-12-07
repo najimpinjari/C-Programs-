@@ -1,0 +1,7 @@
+E:\C# project\1\Calculate Average\bin\Debug\Calculate Average.exe.config
+E:\C# project\1\Calculate Average\bin\Debug\Calculate Average.exe
+E:\C# project\1\Calculate Average\bin\Debug\Calculate Average.pdb
+E:\C# project\1\Calculate Average\obj\Debug\Calculate Average.csproj.AssemblyReference.cache
+E:\C# project\1\Calculate Average\obj\Debug\Calculate Average.csproj.CoreCompileInputs.cache
+E:\C# project\1\Calculate Average\obj\Debug\Calculate Average.exe
+E:\C# project\1\Calculate Average\obj\Debug\Calculate Average.pdb
