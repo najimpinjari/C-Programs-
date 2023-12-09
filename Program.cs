@@ -1,55 +1,38 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exception_handling_continew
+namespace Largest_of_Three_Numbers
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("welcome to calculator application");
-            Console.WriteLine("please enter numearator");
-            int  numerator , denominator ;
+            Console.WriteLine("largest of three numbers ");
 
-            if (int.TryParse(Console.ReadLine(), out numerator))
-            {
-                Console.WriteLine("please enter denominator");
+            Console.WriteLine("enter the first number ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
 
-                if (int.TryParse(Console.ReadLine(), out denominator))
-                {
-                    Divid(numerator , denominator);
-                }
-                else
-                {
-                    Console.WriteLine("Please enter a valid denominator");
-                }
-            }
-            else
-            {
-                Console.WriteLine("please enter valid numar");
-            }
-            Console.WriteLine("Thank you visit again ");
+            Console.WriteLine("enter the second number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("enter the third number");
+            int num3 = Convert.ToInt32(Console.ReadLine());
+
+            int largest = Findlargestnumber (num1, num2, num3);
+
+            Console.WriteLine($" the largest number is {largest}");
 
             Console.ReadLine();
         }
-        static void Divid(int num, int den)
+        static int Findlargestnumber(int a, int b, int c)
         {
-            if(den != 0)
-            {
-                int div = num / den;
-                Console.WriteLine($"division {num} / {den} int {den}");
-            }
-            else
-            {
-                Console.WriteLine("denominator cannot be zero");
-            }
-          
-            Console.WriteLine("division opretion completed");
+            return Math.Max(Math.Max(a, b) , c);
         }
 
     }
-   
+
 }
