@@ -4,31 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Character_Repeater
+namespace Positive__Negative__or_Zero
 {
-    class Program
+    internal class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("charector repited ");
+            Console.WriteLine("posiitve , nigative or zero cheker");
 
-            Console.WriteLine("Enter a charechter ");
-            char charechter = Convert.ToChar(Console.ReadLine());
+            Console.WriteLine("please enter your number");
+            int number = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter the number of time to repeat : ");
-            int repeatcount = int.Parse(Console.ReadLine());
+            if(number > 0)
+            {
+                Console.WriteLine($" {number} is positive ");
+            }
+            else if(number < 0)
+            {
+                Console.WriteLine($"{number} is niaative");
+            }
+            else
+            {
+                Console.WriteLine($" {number} is zero");
+            }
 
-            string repeatedstring = Repeatcharector(charechter, repeatcount);
-
-            Console.WriteLine($" result {repeatedstring}");
-
-            Console.ReadLine();
-
-        }
-        static string Repeatcharector(char ch, int count)
-        {
-            return new string(ch, count);
+            Console.ReadKey();
         }
     }
-  
 }
