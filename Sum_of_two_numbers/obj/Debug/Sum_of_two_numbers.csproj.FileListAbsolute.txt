@@ -1,0 +1,7 @@
+E:\C# project\1\Sum_of_two_numbers\bin\Debug\Sum_of_two_numbers.exe.config
+E:\C# project\1\Sum_of_two_numbers\bin\Debug\Sum_of_two_numbers.exe
+E:\C# project\1\Sum_of_two_numbers\bin\Debug\Sum_of_two_numbers.pdb
+E:\C# project\1\Sum_of_two_numbers\obj\Debug\Sum_of_two_numbers.csproj.AssemblyReference.cache
+E:\C# project\1\Sum_of_two_numbers\obj\Debug\Sum_of_two_numbers.csproj.CoreCompileInputs.cache
+E:\C# project\1\Sum_of_two_numbers\obj\Debug\Sum_of_two_numbers.exe
+E:\C# project\1\Sum_of_two_numbers\obj\Debug\Sum_of_two_numbers.pdb
