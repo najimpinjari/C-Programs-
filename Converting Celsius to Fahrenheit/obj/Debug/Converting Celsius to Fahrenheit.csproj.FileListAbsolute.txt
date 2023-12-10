@@ -1,0 +1,7 @@
+E:\C# project\1\Converting Celsius to Fahrenheit\bin\Debug\Converting Celsius to Fahrenheit.exe.config
+E:\C# project\1\Converting Celsius to Fahrenheit\bin\Debug\Converting Celsius to Fahrenheit.exe
+E:\C# project\1\Converting Celsius to Fahrenheit\bin\Debug\Converting Celsius to Fahrenheit.pdb
+E:\C# project\1\Converting Celsius to Fahrenheit\obj\Debug\Converting Celsius to Fahrenheit.csproj.AssemblyReference.cache
+E:\C# project\1\Converting Celsius to Fahrenheit\obj\Debug\Converting Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+E:\C# project\1\Converting Celsius to Fahrenheit\obj\Debug\Converting Celsius to Fahrenheit.exe
+E:\C# project\1\Converting Celsius to Fahrenheit\obj\Debug\Converting Celsius to Fahrenheit.pdb
