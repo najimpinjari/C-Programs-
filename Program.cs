@@ -4,31 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Positive__Negative__or_Zero
+namespace Converting_Fahrenheit_to_Celsius
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("posiitve , nigative or zero cheker");
+            double fahrenheit, celsius;
 
-            Console.WriteLine("please enter your number");
-            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter temperature in Fahrenheit:");
+            fahrenheit = double.Parse(Console.ReadLine());
 
-            if(number > 0)
-            {
-                Console.WriteLine($" {number} is positive ");
-            }
-            else if(number < 0)
-            {
-                Console.WriteLine($"{number} is niaative");
-            }
-            else
-            {
-                Console.WriteLine($" {number} is zero");
-            }
+            celsius = (fahrenheit - 32) * 5 / 9;
 
-            Console.ReadKey();
+            Console.WriteLine("Temperature in Celsius: {0}", celsius);
+
+            Console.ReadLine();
         }
     }
 }
