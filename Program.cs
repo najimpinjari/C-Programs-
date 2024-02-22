@@ -1,25 +1,43 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Converting_Fahrenheit_to_Celsius
+﻿namespace csharp_d1
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        
+            static void Mymethod()
+            {
+                Console.WriteLine("my name is najim and i am a developer");
+            }
+
+
+            static void Main(string[] args)
+            {
+                Mymethod();
+            }
+
+        string[] cars = { "bmw", "audi", "mastang", "swift" };
+
+        for (int i = 0; i<cars.length; i++)
         {
-            double fahrenheit, celsius;
-
-            Console.WriteLine("Enter temperature in Fahrenheit:");
-            fahrenheit = double.Parse(Console.ReadLine());
-
-            celsius = (fahrenheit - 32) * 5 / 9;
-
-            Console.WriteLine("Temperature in Celsius: {0}", celsius);
-
-            Console.ReadLine();
+            console.writeline(cars[i]);
         }
+
+    int[,] num = { { 1, 2, 3 }, { 4, 5, 6 } };
+
+        foreach (int i in num)
+        {
+            console.writeline(i);
+        }
+
+int[,] num3 = { { 1, 2, 3 }, { 4, 5, 6 } };
+
+for (int i = 0; i < num3.getlength(0); i++)
+{
+    for (int j = 0; j < num3.getlength(1); j++)
+    {
+        console.writeline(num3[i, j]);
+    }
+}
+
+
     }
 }
