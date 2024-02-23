@@ -1,0 +1,7 @@
+E:\C# project\csharp_d1\method_23.1\bin\Debug\method_23.1.exe.config
+E:\C# project\csharp_d1\method_23.1\bin\Debug\method_23.1.exe
+E:\C# project\csharp_d1\method_23.1\bin\Debug\method_23.1.pdb
+E:\C# project\csharp_d1\method_23.1\obj\Debug\method_23.1.csproj.AssemblyReference.cache
+E:\C# project\csharp_d1\method_23.1\obj\Debug\method_23.1.csproj.CoreCompileInputs.cache
+E:\C# project\csharp_d1\method_23.1\obj\Debug\method_23.1.exe
+E:\C# project\csharp_d1\method_23.1\obj\Debug\method_23.1.pdb
