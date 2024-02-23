@@ -1,0 +1,14 @@
+E:\C# project\csharp_d1\csharp_d1\bin\Debug\net6.0\csharp_d1.exe
+E:\C# project\csharp_d1\csharp_d1\bin\Debug\net6.0\csharp_d1.deps.json
+E:\C# project\csharp_d1\csharp_d1\bin\Debug\net6.0\csharp_d1.runtimeconfig.json
+E:\C# project\csharp_d1\csharp_d1\bin\Debug\net6.0\csharp_d1.dll
+E:\C# project\csharp_d1\csharp_d1\bin\Debug\net6.0\csharp_d1.pdb
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.AssemblyInfoInputs.cache
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.AssemblyInfo.cs
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.csproj.CoreCompileInputs.cache
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.dll
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\refint\csharp_d1.dll
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.pdb
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\csharp_d1.genruntimeconfig.cache
+E:\C# project\csharp_d1\csharp_d1\obj\Debug\net6.0\ref\csharp_d1.dll
