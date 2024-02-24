@@ -1,0 +1,7 @@
+E:\C# project\csharp_d1\csharp_24.1\bin\Debug\csharp_24.1.exe.config
+E:\C# project\csharp_d1\csharp_24.1\bin\Debug\csharp_24.1.exe
+E:\C# project\csharp_d1\csharp_24.1\bin\Debug\csharp_24.1.pdb
+E:\C# project\csharp_d1\csharp_24.1\obj\Debug\csharp_24.1.csproj.AssemblyReference.cache
+E:\C# project\csharp_d1\csharp_24.1\obj\Debug\csharp_24.1.csproj.CoreCompileInputs.cache
+E:\C# project\csharp_d1\csharp_24.1\obj\Debug\csharp_24.1.exe
+E:\C# project\csharp_d1\csharp_24.1\obj\Debug\csharp_24.1.pdb
