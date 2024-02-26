@@ -1,43 +1,40 @@
-﻿namespace csharp_d1
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C_fab._26
 {
     class Program
     {
-        
-            static void Mymethod()
-            {
-                Console.WriteLine("my name is najim and i am a developer");
-            }
+        static void Main(string[] args) // calling method 
+       {
+            //   int a = 11;
 
+            //    PrintA( ref a);
+            //    Console.WriteLine(a);
+            int d;
+            PrintC(out d);
+            Console.WriteLine(d);
 
-            static void Main(string[] args)
-            {
-                Mymethod();
-            }
-
-        string[] cars = { "bmw", "audi", "mastang", "swift" };
-
-        for (int i = 0; i<cars.length; i++)
-        {
-            console.writeline(cars[i]);
+        Console.ReadLine();
         }
 
-    int[,] num = { { 1, 2, 3 }, { 4, 5, 6 } };
-
-        foreach (int i in num)
+        static void PrintA( ref int b )  //called method 
         {
-            console.writeline(i);
+           // b = 1000;
         }
 
-int[,] num3 = { { 1, 2, 3 }, { 4, 5, 6 } };
+        static void PrintC(out int d)
+        {
+            d = 200;
+        }
 
-for (int i = 0; i < num3.getlength(0); i++)
-{
-    for (int j = 0; j < num3.getlength(1); j++)
-    {
-        console.writeline(num3[i, j]);
+
     }
 }
 
 
-    }
-}
+
+
