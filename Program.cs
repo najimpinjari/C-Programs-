@@ -4,37 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_fab._26
+namespace C_feb_24._1
 {
     class Program
     {
-        static void Main(string[] args) // calling method 
-       {
-            //   int a = 11;
+        static void Main(string[] args)
+        {   //optional methiod parameters 
 
-            //    PrintA( ref a);
-            //    Console.WriteLine(a);
-            int d;
-            PrintC(out d);
-            Console.WriteLine(d);
+            Total(10, 1);
+            Total(20);
+            
+            Console.ReadLine();
 
-        Console.ReadLine();
         }
-
-        static void PrintA( ref int b )  //called method 
+        static void Total(int a , int b = 5) //method using default parameter if we dont initializ value for b 
+            // then he give a default value for itself
         {
-           // b = 1000;
+            Console.WriteLine($" {a} + {b} = {a+b}");
         }
-
-        static void PrintC(out int d)
-        {
-            d = 200;
-        }
-
-
     }
 }
-
-
-
-
