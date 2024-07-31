@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Interview_practice\bin\Debug\Interview_practice.exe.config
+C:\Users\Lenovo\source\repos\Interview_practice\bin\Debug\Interview_practice.exe
+C:\Users\Lenovo\source\repos\Interview_practice\bin\Debug\Interview_practice.pdb
+C:\Users\Lenovo\source\repos\Interview_practice\obj\Debug\Interview_practice.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Interview_practice\obj\Debug\Interview_practice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Interview_practice\obj\Debug\Interview_practice.exe
+C:\Users\Lenovo\source\repos\Interview_practice\obj\Debug\Interview_practice.pdb
