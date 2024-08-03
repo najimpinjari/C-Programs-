@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Practive_day2\bin\Debug\Practive_day2.exe.config
+C:\Users\Lenovo\source\repos\Practive_day2\bin\Debug\Practive_day2.exe
+C:\Users\Lenovo\source\repos\Practive_day2\bin\Debug\Practive_day2.pdb
+C:\Users\Lenovo\source\repos\Practive_day2\obj\Debug\Practive_day2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Practive_day2\obj\Debug\Practive_day2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Practive_day2\obj\Debug\Practive_day2.exe
+C:\Users\Lenovo\source\repos\Practive_day2\obj\Debug\Practive_day2.pdb
