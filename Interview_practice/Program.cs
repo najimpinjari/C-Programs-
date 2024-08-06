@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Interview_practice
 {
-    public  class Program
+    public class Program
     {
 
         static void Main(string[] args)
         {
-            //4. Reverse the String ‘Najim’
-            //first 
+            4.Reverse the String ‘Najim’
+            first
             Console.WriteLine("enter String");
 
             string Name = Console.ReadLine();
@@ -26,27 +26,27 @@ namespace Interview_practice
             Console.WriteLine(rev);
 
 
-            //second way 
+            second way
 
-            //Console.WriteLine("Enter Your String ");
+            Console.WriteLine("Enter Your String ");
 
-            //string originalstring = Console.ReadLine();
+            string originalstring = Console.ReadLine();
 
-            //char[] charArray = originalstring.ToCharArray();
-            //Array.Reverse(charArray);
-            //string reversedString = new string(charArray);
+            char[] charArray = originalstring.ToCharArray();
+            Array.Reverse(charArray);
+            string reversedString = new string(charArray);
 
-            //Console.WriteLine("Original String: " + originalstring);
-            //Console.WriteLine("Reversed String: " + reversedString);
+            Console.WriteLine("Original String: " + originalstring);
+            Console.WriteLine("Reversed String: " + reversedString);
 
             Console.WriteLine("Enter your String");
 
             string ogstring = Console.ReadLine();
 
             char[] chararry = ogstring.ToCharArray();
-            
+
             Array.Reverse(chararry);
-            string revstring =  new string(chararry);
+            string revstring = new string(chararry);
 
             Console.WriteLine($" og string = :{ogstring} ");
             Console.WriteLine($" rev string = :{revstring} ");
