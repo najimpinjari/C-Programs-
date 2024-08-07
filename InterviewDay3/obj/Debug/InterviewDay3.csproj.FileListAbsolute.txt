@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\InterviewDay3\bin\Debug\InterviewDay3.exe.config
+C:\Users\Lenovo\source\repos\InterviewDay3\bin\Debug\InterviewDay3.exe
+C:\Users\Lenovo\source\repos\InterviewDay3\bin\Debug\InterviewDay3.pdb
+C:\Users\Lenovo\source\repos\InterviewDay3\obj\Debug\InterviewDay3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\InterviewDay3\obj\Debug\InterviewDay3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\InterviewDay3\obj\Debug\InterviewDay3.exe
+C:\Users\Lenovo\source\repos\InterviewDay3\obj\Debug\InterviewDay3.pdb
